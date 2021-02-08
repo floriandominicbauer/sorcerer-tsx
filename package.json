@@ -1,0 +1,45 @@
+{
+  "name": "sorcerer-tsx",
+  "displayName": "sorcerer-tsx",
+  "publisher": "florianbauer",
+  "author": {
+    "name": "Florian Bauer"
+  },
+  "description": "forked sorcerer theme with added typescript and tsx support",
+  "keywords": [
+    "neon",
+    "dark",
+    "cyberpunk",
+    "vivid",
+    "bright"
+  ],
+  "galleryBanner": {
+    "color": "#0e141a",
+    "theme": "dark"
+  },
+  "icon": "assets/icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/floriandominicbauer/sorcerer-tsx.git"
+  },
+  "bugs": {
+    "url": "https://github.com/floriandominicbauer/sorcerer-tsx.git/issues",
+    "email": "floriandominicbauer@gmail.com"
+  },
+  "version": "0.1.0",
+  "engines": {
+    "vscode": "^1.53.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "sorcerer",
+        "uiTheme": "vs-dark",
+        "path": "./themes/sorcerer-color-theme.json"
+      }
+    ]
+  }
+}
