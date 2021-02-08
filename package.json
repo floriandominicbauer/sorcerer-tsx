@@ -36,7 +36,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "sorcerer",
+        "label": "Sorcerer TSX",
         "uiTheme": "vs-dark",
         "path": "./themes/sorcerer-color-theme.json"
       }
